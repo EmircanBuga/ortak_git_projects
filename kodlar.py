@@ -1,0 +1,1 @@
+print("benim yazdığım kodlar ve degisiklikler")
